@@ -23,7 +23,7 @@ const Home = () => {
 
   return (
     <div className="container mx-auto my-10">
-      <div className="flex justify-center gap-6">
+      <div className="max-w-5xl mx-auto grid grid-cols-3 gap-x-4 gap-y-6">
         {banners.map((banner) => (
           <BannerImageComp
             key={banner.id}

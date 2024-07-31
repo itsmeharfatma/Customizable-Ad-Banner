@@ -4,15 +4,95 @@
     "title": "Ad Banner 1",
     "description": "This is the first ad banner",
     "cta": "Click Here",
-    "image": "/Food-Beverage.png",
-    "background": "#fafafa"
+    "image": "/monitoring.png",
+    "background": "/Food-Beverage.png"
   },
   {
     "id": 2,
     "title": "Ad Banner 2",
     "description": "This is the second ad banner",
     "cta": "Learn More",
-    "image": "/Food-Beverage.png",
-    "background": "#fafafa"
+    "image": "/monitoring.png",
+    "background": "/Food-Beverage.png"
+  },
+  {
+    "id": 3,
+    "title": "Ad Banner 1",
+    "description": "This is the first ad banner",
+    "cta": "Click Here",
+    "image": "/monitoring.png",
+    "background": "/Food-Beverage.png"
+  },
+  {
+    "id": 4,
+    "title": "Ad Banner 1",
+    "description": "This is the first ad banner",
+    "cta": "Click Here",
+    "image": "/monitoring.png",
+    "background": "/Food-Beverage.png"
+  },
+  {
+    "id": 5,
+    "title": "Ad Banner 1",
+    "description": "This is the first ad banner",
+    "cta": "Click Here",
+    "image": "/monitoring.png",
+    "background": "/Food-Beverage.png"
+  },
+  {
+    "id": 6,
+    "title": "Ad Banner 1",
+    "description": "This is the first ad banner",
+    "cta": "Click Here",
+    "image": "/monitoring.png",
+    "background": "/Food-Beverage.png"
+  },
+  {
+    "id": 7,
+    "title": "Ad Banner 1",
+    "description": "This is the first ad banner",
+    "cta": "Click Here",
+    "image": "/monitoring.png",
+    "background": "/Food-Beverage.png"
+  },
+  {
+    "id": 8,
+    "title": "Ad Banner 1",
+    "description": "This is the first ad banner",
+    "cta": "Click Here",
+    "image": "/monitoring.png",
+    "background": "/Food-Beverage.png"
+  },
+  {
+    "id": 9,
+    "title": "Ad Banner 1",
+    "description": "This is the first ad banner",
+    "cta": "Click Here",
+    "image": "/monitoring.png",
+    "background": "/Food-Beverage.png"
+  },
+  {
+    "id": 10,
+    "title": "Ad Banner 1",
+    "description": "This is the first ad banner",
+    "cta": "Click Here",
+    "image": "/monitoring.png",
+    "background": "/Food-Beverage.png"
+  },
+  {
+    "id": 11,
+    "title": "Ad Banner 1",
+    "description": "This is the first ad banner",
+    "cta": "Click Here",
+    "image": "/monitoring.png",
+    "background": "/Food-Beverage.png"
+  },
+  {
+    "id": 12,
+    "title": "Ad Banner 1",
+    "description": "This is the first ad banner",
+    "cta": "Click Here",
+    "image": "/monitoring.png",
+    "background": "/Food-Beverage.png"
   }
 ]
